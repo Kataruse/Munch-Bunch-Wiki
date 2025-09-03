@@ -1,0 +1,451 @@
+{
+  "source_base_path": "C:/Users/nicka/Documents/Personal/08_Self-Development/01_Programming/04_VS-Code/Munch-Bunch-Wiki",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "characters/players.md",
+      "output": {
+        ".html": {
+          "relative_path": "characters/players.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "characters/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "characters/toc.html"
+        },
+        ".json": {
+          "relative_path": "characters/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Demo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Demo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/MunchBunchIcon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/MunchBunchIcon.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/MunchBunchLogo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/MunchBunchLogo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/demo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/demo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day15.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day15.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day16.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day16.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day17.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day17.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day18.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day18.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day19.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day19.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day20.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day20.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day21.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day21.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day22.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day22.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day23.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day23.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day24.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day24.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day25.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day25.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day26.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day26.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day27.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day27.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day28.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day28.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day29.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day29.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day30.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day30.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day31.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day31.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day32.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day32.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day33.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day33.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day34.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day34.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day35.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day35.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day36.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day36.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day37.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day37.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day38.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day38.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day39.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day39.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day40.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day40.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "sessions/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/toc.html"
+        },
+        ".json": {
+          "relative_path": "sessions/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "world/cities.md",
+      "output": {
+        ".html": {
+          "relative_path": "world/cities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "world/how-to-markdown.md",
+      "output": {
+        ".html": {
+          "relative_path": "world/how-to-markdown.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "world/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "world/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "world/maps.md",
+      "output": {
+        ".html": {
+          "relative_path": "world/maps.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "world/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "world/toc.html"
+        },
+        ".json": {
+          "relative_path": "world/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "world/towns.md",
+      "output": {
+        ".html": {
+          "relative_path": "world/towns.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

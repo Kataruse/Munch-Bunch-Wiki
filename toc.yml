@@ -1,0 +1,6 @@
+- name: World
+  href: world/
+- name: Sessions
+  href: sessions/
+- name: Characters
+  href: characters/
