@@ -1,7 +1,26 @@
-# ? Day ?
+# Friday Day 40
 
-- Continued to Wyra
-- Attacked in the night by the underwear bandits
-- The leader was Charlie from Rand
-- The other was Jaycen from Niafel
-- Sent them to GoldFleece to turn their life around
+- Awake in the tent
+- First game today is the show of the fang, today Tancock with try to lift the large boulder to show strength
+- We decide to look for potion sellers to make some kind of enhancing potion to help Tancock win this competition alongside our magical spells
+- Hendrix knew Tancocks father, is trying to show us how to make a potion to help him.
+- Successfully make Tancock a potion for strength
+- Tancock drinks the potion and gets his buffs right before the games begins
+- Tancock easily throws the smallest stone
+- His uncle picks up the medium stone and chucks it into a stone Z is standing on.
+- Tancock goes for the heavier stone, lifts it up with a Nat 20 and throws it at the crowd.
+- Lune convinces a scorpion to go sting his uncle, taking Gurglin's cockroach to entice him.
+- His uncle goes to lift a heavier stone, scorpion goes up and stings him for a Nat 20 and poisons him. He stills gets to throw the stone.
+- Tancock goes for a 5000 lbs stone lift, walking up stripping down, booty butt naked. Goes to lift it up, pick it up a little bit and it falls back down to the ground
+- His uncle goes to lift it up next, putting on his helmet. Growing his body to twice his size, but cannot lift up stone, It ends in a tie.
+- People are whispering about Tancocks performance against his uncle
+- We make our way to averniuses call, larger pit play arena for the games.
+- How to play Tula, You have a 30 lbs ball meeting in the middle and try to catch it to start the game with the ball. Goal you’re facing is your goal, protect your own, its one point to score. At the green flag markers with red and blue colors, we are blue team. To earn more points we’ll need to smack the sign to our color, if its facing their goal then its extra points for us. Anything is allowed as long as it isn’t murder. There are traps on the field, near the signs often. You can break the environment and hurt the opponents. Everyone's status is reset each round, max of 6 players.
+- One year the greatest players threw a pillar at a player.
+- We’re playing against his uncles lackies
+- The game begins and they get advantage on getting the ball which they end up getting it.
+- Bro holds onto the ball for dear life, brought down to one health with the ball, Gruglin summons a spiritual spider who goes and gets the ball from the guy.
+- Some other guy grabs the ball from the spider, but with opportunity attack the spider gets a Nat 20 and knocks him out, but his friend comes by and grabs the ball and chucks it to the other guy.
+- They do a pass along between members to score one point on us
+- Game resets 0-1, Tancock wins the ball and moves foward. After flipping all the flags and spiking the ball into the ball scoring us 6 points, we are now 6-1.
+- Tancock’s Uncle hops in the ring to join the game due to anger.
