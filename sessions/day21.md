@@ -1,2 +1,34 @@
 # Sunday Day 21
 
+- Tancock manages to find his way back
+- Head into the forest and find an abandoned town
+- Find a divot in the ground and decide to start digging and get ambushed by insect creatures
+- Goorak and Tancock got grappled
+- Gruglin, Sybil, Leif, and Lune got mind controlled
+- Goorak gets knocked down and his bird appearance is shedded
+- Goorak gets back up
+- Lune and Goorak get knocked
+- Both get back up
+- Manage to kill all 3 creatures and head into the cave
+- Cave has many paths and the team splits up
+- Gruglin runs away from everyone eventually triggering a trap and gets damaged
+- Find a egg cave
+- Sludge falls into a trap and takes damage
+- Lune secretly steals an egg to keep
+- Gruglin eats a egg
+- Sludge breaks one
+- Leif breaks all the remaining eggs by greasing them up them shooting a fireball
+- Find a room with people hanging from the ceiling
+- Lune stays with the people after we get them down
+- Find another room with mounds of flesh
+- Leif sets the room ablaze, we hear a women shriek in pain
+- Get into combat with 6 spiders
+- The mother died but the baby is still alive
+- Leif gets downed twice but gets up both times
+- Lune and Sybil manage to save the baby and we kill all the spiders
+- Find a treasure room with various shining things, a Trident, Battle-Axe
+- Make it to the cart
+- Gather the group and the man sees his dead wife but got back his child
+- Sneaks 20 gold in his inventory
+- Party rests
+- Tancock and Lune have a pact that they must uphold

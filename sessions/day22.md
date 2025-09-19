@@ -1,2 +1,23 @@
 # Monday Day 22
 
+- Lune and Leif go and talk while Sybil follows in bat form
+- Leif attacks with a thunder attack Lune for stopping him earlier
+- Gruglin is alerted by the thunder and warns everyone to engage
+- Sybil approaches and watches from a distance
+- Gruglin and Sludge catch up
+- Sludge attacks Leif
+- Gruglin attacks Lune
+- Lune and Leif attacks until both are at their last leg
+- Leif gets downs but then gets stabilized by Sybil
+- Sludge knocks Leif down
+- Leif gets stabilized again with nature abilities and turns into a monster
+- Leif attacks Sybil
+- Gruglin attacks Leif
+- Sybil attacks Leif knocking him down
+- Leif says “I saw you like a brother” to Gruglin
+- Gruglin says “Goodbye, Dear friend.” to Leif
+- Gruglin finishes Leif off
+- Leif is buried by Lune and Gruglin
+- Head back to the wagon and continue down the road to Wyra
+- Make it back to Wyra late at night
+- Lee heard in the allyways “Roland…have to move crates…down below…evidence…” and “Midus will kill us if we aren't out of town”

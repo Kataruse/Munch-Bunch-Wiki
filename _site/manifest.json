@@ -235,20 +235,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "sessions/day29.md",
+      "source_relative_path": "sessions/day29-30.md",
       "output": {
         ".html": {
-          "relative_path": "sessions/day29.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "sessions/day30.md",
-      "output": {
-        ".html": {
-          "relative_path": "sessions/day30.html"
+          "relative_path": "sessions/day29-30.html"
         }
       },
       "version": ""
@@ -275,30 +265,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "sessions/day33.md",
+      "source_relative_path": "sessions/day33-35.md",
       "output": {
         ".html": {
-          "relative_path": "sessions/day33.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "sessions/day34.md",
-      "output": {
-        ".html": {
-          "relative_path": "sessions/day34.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "sessions/day35.md",
-      "output": {
-        ".html": {
-          "relative_path": "sessions/day35.html"
+          "relative_path": "sessions/day33-35.html"
         }
       },
       "version": ""
@@ -315,10 +285,20 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "sessions/day37.md",
+      "source_relative_path": "sessions/day37-38_TeamGirl.md",
       "output": {
         ".html": {
-          "relative_path": "sessions/day37.html"
+          "relative_path": "sessions/day37-38_TeamGirl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day37_TeamBoy.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day37_TeamBoy.html"
         }
       },
       "version": ""

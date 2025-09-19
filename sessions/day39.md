@@ -1,7 +1,5 @@
-# ? Day ?
+# Thursday Day 39
 
-- Continued to Wyra
-- Attacked in the night by the underwear bandits
-- The leader was Charlie from Rand
-- The other was Jaycen from Niafel
-- Sent them to GoldFleece to turn their life around
+- Head for Tancock’s village
+- Speak with his Uncle, and challenge him to the games
+- Getting information about the games from Tancocks Mother, trying to figure out a plan
