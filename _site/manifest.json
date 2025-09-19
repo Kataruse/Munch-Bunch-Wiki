@@ -354,6 +354,16 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "sessions/day41.md",
+      "output": {
+        ".html": {
+          "relative_path": "sessions/day41.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "sessions/toc.yml",
       "output": {

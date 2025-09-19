@@ -43,7 +43,3 @@
 - Gruglin get a "maybe" friendly scorpion.
 - Tancock tries to think about the pocket watch, trying to understand how he could of possibly made it.
 - Lune, sneaks in by a bug and listens in with Tancock Uncle's group to try and gain insights about their plan. There is a orc named Zander, who has some familiarity with magic who doen't seem to be along with Tancock's Uncle. Eventually she manages to get his attention and trys to get him to not call us out on using magic, IF Tancock accepts it. He says that he wouldn't tell them if we don't make it obvious.
-
-
-
-Spider is at 30 hp
