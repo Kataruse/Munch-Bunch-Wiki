@@ -5,7 +5,7 @@
 - Gruglin and Sludge come back and also goes to give Tancock buffs.
 - We all get lead to the battle arena by guards, and are split from Tancock where he heads to the arena, after we all said our goodbyes.
 - There is also some sports betting going on, some of us bet on Tancock winning and a lot of citizens are betting on Tancock's Uncle.
-- Gruglin bets 4 Gold, 4 Silver, 9 Bronze on Bet
+- Gruglin bets 4 Gold, 4 Silver, 9 Bronze on Bet *
 - Tancock gets given a long sword from Leonis of Austis, it needs to be attunded to
 - The battle begins, and Tancock's uncle hits Tancock hard, Tancock attacks back with equal force, and an addtionally attack as well on his calf.
 - Tancock gets hit again, and cowers under his shield, secrently prepping his jump boots.
@@ -18,10 +18,44 @@
 - His uncle, slams Tancock into the wall, and throws him into the dome then he falls into the ground. Then stands over him and slamming his head with his foot.
 - His uncle, calls on backup to deal with us, bringing all of Munch Bunch into battle.
 - Gruglin tries to jump in between the flickering, gets caught in it for a second but gets thrown out with his arm going numb for awhile.
-- 
+- Sludge turns to an orc and absolutely demolishes them.
+- Sybil and Lune manage to get through the shield, and uncle tries to hit Sybil but she dodges his attack twice, he then goes in for a legendary attack and hits in his fist into her head.
+- Sybil casts hellish rebuke on Tancock's uncle, turning his arm into flames.
+- Tancock goes in for the kill on his uncle, getting right infront of him, looking up at him, slamming his sword through his head, using his jump boots to jump right through him yelling out "Suffer as I have!". Even though he's dead, Tancock goes to cave in his head, like he did all those years ago.
+- Tancock, notices a tooth in his uncles body that begins to reform his body, while he's not there any longer, he's a host to a parasite.
+- The barrier drops
+- Sludge drops into the arena, and heads towards his uncle.
+- Z, still in the stands, goes for one of the Orcs and slices him into small bits, then goes to attack another Orc killing him as well.
+- One of the Orcs goes to attack Gruglin, bringing him close to death, but Sybil after attacking Tancock's uncle, she heals Gruglin.
+- Lune, with pure rage, then summons 8 raptors to surround and attack Tancock's uncle that absoltuely maw at him barely leaving him standing.
+- His uncle, enraged at Lune, slams into him and downs him. Then he goes to hit Sybil but Tancok swings in deflecting his attack.
+- The monster then turns to Gruglin and says, "Father....Help!!!"
+- Tancock goes in to finally end this battle, saying "For the Munch Bunch"!, drops his sheild and pulls out his sword like a samarui, slicing him up, slowly up his body, mincing him down.
+- Tancock crushes the tooth, it turns into a red paste of blood and tongues.
+- The crowd errupts into cheers for Tancock, winning the battle.
+- Lune goes and grabs whats left of the gold.
+- Tancock feels relief on the tribe, and puts his sword to rest, as if its a new chapter.
+- Party breaks out with every drinking and partying.
+- Sybil is taking a breather to herself but still with others
+- Gruglin is stand offish and doesn't eat or drink.
+- Tancock gives a speech saying that he's going to stay with the Stonefage tribe and lead them.
+- Table grows silent.
+- They lift their glass, and say "Tancock of the West".
+- Later in the night, Tancock puts the helmet back on, hearing the voice of his father again, he says that he'll lead the tribe well, and welcome to your own personal helmet. His father offers for him to continue as a Paladin or switch to something more magic based. (Father was a artificer). He chooses to follow in his fathers path, and the helmet puts his head back together. in his brain His father takes him under is wing, showing him around his workshop, teaching him skills and magic spells. Tancock begins to fall back into older habits, his father, at the end of it all says, "Tantulus, I know that I'm probably not around, and if I was you wouldn't of heard this part of the message, I love you son and I'm proud of you, whatever choices you make, the amazing ones that impact the world forever, whether you bring our tribe into a new age, you'll forever leave an impact in those you meet. I have one request, if I am gone, there might be a way to bring me back."
+- Sludge, his magic felt off, almost wrong, it was ripping itself apart from the atoms. He feels this aching in his being. His mind dragon talks to him saying "Sludge, come home...We need...to face him together...I think...the wizard...is looking for you...looking for me."
+- He sees those familiar blue eyes from the darkness, it's an renactment of the day Sludge was born. Seeing the staff of creation, stones crack the crystals and mix with the blood of the dragons. The wizard cries out in anger, as he'd lost everything he'd worked for. Sludge feels that pull coming his way, being stuck in the moment with the dragon.
+- "Find the cave...help me...I will restore our power...you made a deal...honor it." Then bringing Sludge back into the moment.
+- Gruglin feels another piece click into his mind. He remembers that longer than he'd been alive he'd had a memory in his brain. being held in a dwarfs arms, moms face fadded out, but knowing its her. I remember the face of a large gnomish man, a deeper gnome that had the same teeth that dragon had. He questions how long ago that was. Urge to look at the poster of the long dead king, geting a pain of a life that could've been. He feels that, if he could find that tooth, maybe it'd help me.
+- Lune, goes to sit on a large ancient snake creature structure, picking out constalations in the sky, knowing the stories of each one. Hearing something as they look into that abyss. As he sits looking at the sky, he sees a far away burning meteor burling towards the earth. He tries to find out how far it is, measuring it out, it could arrive within just a little bit more than 30 days. He relizes that it's going to hit near Rand. Lune pulls out the metor, in a muffled voice it says something, but whipsers circle around the rock.
+- It talks to Lune speaking in his mind saying "I see you...I am Leeon...and I am coming...I am a emmisary...and I will bring you back"
 
-26 HP Spider
-13 AC
-Maul = 1d8 + 4 + 2
 
-Right hand is numb, but I have two weapon fighting, so I'm proficient with two weapons, so it doesn't matter
+
+I regain a santiy point & Level Up
+
+
+Gruglin is lost again, again like when he lost Leif.
+
+Gruglin wants to tell Tancock that, he's proud of how far he's come, and he's happy that he's able to regain his memories.
+
+Gruglin bets 4 Gold, 4 Silver, 9 Bronze on Bet *
