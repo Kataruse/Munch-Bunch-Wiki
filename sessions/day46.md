@@ -1,0 +1,59 @@
+# Wednesday Day 46
+
+- We get off the raft, and start to head for Wyra for a pitstop.
+- its a 4 days travel to Wyra.
+- After awhile of traveling, the thing wakes up in our cart and realizes that they're not on the raft anymore
+- He starts to head over to the horses, Z and Sludge are driving the carts, he stealthly heads over to it and hangs on underneath the horse. He tries to steer the horse towards the trees to climb on them.
+- He steers our cart off the trail and into a ditch, breaking our wheel, he flings into a tree and hits the trunk, alerting all of us.
+- Lune tries to cast hold person on him but fails, Sybil casts zone of truth on him successfully, Gruglin ready's to attack him if he moves closer to us.
+- He says his name is George, he admits to not eating our fruit right now or VERY earlier.
+- Z runs to him and pins him against the tree.
+- George is a tiny monkey who's got a cloak and LOVES the boof, he's from an island.
+- George offers to fix the cart in repayment of breaking it, throws us a bag of the good green.
+- George sits down by the cart with a drum to cast mending on the broken wheel, Sludge lifts up the cart to help, he succesfully fixes the wheel.
+- Lune notices someone whos younger in the bushes, picking things like bugs and leafs and tries to hold person them.
+- The kid falls to the ground, scraping their knee. The kid has gray platinum hair, they're a fallen asfar child with pale skin.
+- Lune heals the wound, and Sybil and Lune speak Celestial to them and he's just heading home.
+- Gruglin gives the kid a broken wooden car that doesn't have one of its wheels. He invites us over for dinner and to play with some of his toys.
+- Gruglin and Sybil are investigating the forest a we go by, Sybil sees some interesting plants while Gruglin finds a super cool stick with carvings in it.
+- We eventually make it to this kids house after a 30 minutes walk. His house is a log cabin that is wet wood rotted, covered in moss. It's very old.
+- George peers into the house and tries to get a peak before going in, while Gruglin just walks right in.
+- Sludge walks in as well and investigates the house a bit to see who else lives here, they see some rusted knifes, coins, and a painting of a aasamore man who looks similar to the kid, a rusted key, and a note that he cannot read.
+- Gruglin uses some of his sticks to fix the table to be a lot more stable.
+- Lune and Sybil hang back a bit and inspect the area, George climbs around the house exploring the area, he dosen't notice anything.
+- Z looks around the area looking for tracks and doesn't notice anything either.
+- Kid, Thaddius, pulls out his train that has tracks that can snap together.
+- George uses a spell to cast a sound to get the kid into his room and make Gruglin be alone in the living room.
+- Gruglin spends the time fixing up the kids Train and fixing the structural integrity of the house and the hole in the roof.
+- Sybil casts Augury to see if we are in danger here or not, and it seems like it's going to be an good comeout.
+- Z leaps up into the tallest part of the tree to keep watch out for the kids parents.
+- Geroge investigates the collapsed portion of the house, he finds a handle to a trap door of sorts.
+- The kid comes back from his room and shows two "trains" to Lune and Sybil and gives one to Sybil.
+- George gets Sludge to come over and tells him about the trapdoor and gets Sludge to come with him.
+- The kid gets Sybil to come checkout his totally sick room.
+- George and Sludge goes to get Lune to come with them.
+- Gruglin nearly rips the door opened to try and clean up the collasped room.
+- Lune is talking to a magpie to get some more intel, he says he only sees the kid recently. Lune offers him a few seeds (eating a few in the process too), seeing if they've seen any dangers nearby.
+- George and Sludge try to open the trap door but the key doesn't work, so Sludge tries to use his gloop to open the trapdoor but breaks the lock so Gruglin rips the trapdoor off the hidges.
+- Sludge and George lower Gruglin by his ankles into the crawlspace to look with his darkvision.
+- Sybil asks the kid that if his parents are usually gone for awhile, he says yes, he also says they don't get many visitors. Sybil adds some stuff to the stew, like a healing potion and a mushroom.
+- The kid gives Sybil a bowl of the stew, he said last time he had the stew he didn't feel so good.
+- Z still sees nobody coming, so he comes down from the tree, the kid offers him some stew.
+- Z looks around the last room that nobodies looked at yet, theres a king sized bed that's wet and broken. He finds a hidden compartment in the closet with a box of money in it. He then walks out and gets the kid to play with dice.
+- Gruglin sees a muddy and "dank" area, there alot of things just thrown around and scattered, I specifically see about 45 feet into the crawlspace is a wooden wall with another door and a lock.
+- Gruglin goes back to cleaning the collapsed room.
+- Sludge gives Lune the note that he found, that says "this stuff is untraceable, so use it, if you do you can start over again."
+-  Sludge thinks to maybe go back and look where he found it.
+-  Lune turns into a spider and investigates the crawlspace, he can't find a hole to get through the door.
+- Z continues to play with the kid, Sybil casts message to Z asking him he found anything in his parents room, and tells them about it.
+- Sybil goes to the closet to check it out. The paste is not magical but it's nothing unhealthy it seems, but it's on the lip of the pot.
+- The kid says her mom put it in the soup to add some "spice".
+- The kid goes to bed and Sybil stays with him while he rests, he doesn't seem well and very sick from the soup. She casts Lesser Restoration but it has no effects.
+- The kid says that the last time he saw his parents, it was dark which is why he's scared of it. He says he must return to the darkness.
+- George, Sludge, and Lune go through the crawl space, and he smells the smell of death through the closet. He sees a small frail mummified foot.
+- Z turns around and notices that the train is gone.
+- Inside the closet theres a mummfied Thadius with a train on his lap. Looking deeper into the closet.
+- Lune looks closer at the salve and finds out it's poison.
+- George tries to loot the body, only finds the train on the kids body, and notices that the train's wood is colder than usual wood and inspects it.
+- The train allows for you to speak with the dead once per day. George uses it on the kid, but he doesn't speak, he's moved on to a better place now past this part of his life.
+- Gruglin walks up out of the cellar, and in his thoughts he remembers his mother consumed by gibbering beasts, she has long red locks, trying to cover me away from seeing whatever was about to happen.
