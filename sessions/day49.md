@@ -1,0 +1,21 @@
+# Saturday Day 49
+
+- As the sun begins to set on the second day of our travels, he have two options at this moment, to the right we see flatened grass with a large caravan circle with a large fire and lots of people talking, this is a group of travelers that are trying to keep together. We could also continue to press on but we're 2 Days away from Wyra and 2 Days away from town.
+- Lune informs us of the meteor thats hurtling towards the world that we'd hadn't heard of before. We decide it's best for us to rest here for the night and George rushes towards the group of people and Sludge and Sybil rush towards him. They allow for us to rest there for the night, it seems like a very healthy mix of people.
+- Theres a kid whos a halfling whos staring and looking at us writing in their book. 
+- Lune sees two group that stick out, the black haired gnome whos broad and has a dad bod of a nom, he has a large baby and he he's with a blond woman. He also sees the same kid who was staring at us, his vibe is a family moving so nothing out of the norm. They kid is sitting with the group of dwarfs but he's the only one who really sticks out.
+- Z looks at a family who has armor at their caravan.
+- Gruglin, Sybil, and Lune comes to speak to the kid and see what he's doing, he's heading to Wyra with this family but wants to see if he can come with us since we're going directly there. He's from a Coast town *Fota* which is close to near where Sybil grew up. He's studying magic and trying to learn more through books. His name is *Ahorrus*, he's 18.
+- He notices Sludge and is super interested in him.
+- George is running around trying to steal food and nobody is noticing at all. He's so drunk and high that he steals a baby's bottle and starts sucking on it on the top of the cart.
+- Everyone agrees that he can come with us.
+- Sybil gives the kid some leather armor to make sure he's protected a bit. He casts strink to make it fit him better and he's able to scale it up to fit a lot better.
+- Then hit the hay for the night, but Lune goes to try and talk to the Meteor but nothing happens. This is because Lune hasn't touched the meteor so he goes to touch the meteor, their mind expands into an area thats void. Lune feels the fibers of your being stripped away until they're just a bright glowing like the brightest star in a constelation. He then sees a large face but it's actually the astroid, within the astroid they see the symbol of a Lion's maw angry at them. Lune asks how to get rid of you, it responds "Nothing, Father sends a arbinger, I am but a tool, you will come back up." Lune asks it for mor into "One day, the heavens were dark, we were put there to guide, to push the world in a direction. Forever we stay there, forever we watch. We choose to exist, and you will come back. Whether you want to...or not." The maw of the Lion opens and shatters all their bones in their body and tears them apart until they feel the esseces of the beginning.
+- Lune falls out the tree and shoots at the astroid in anger, and walks away in frustration, the shot keeps going and doesn't stop towards the meteor. Lune feels a strong power within them from this shot.
+- Lune goes to fly away from the group to test out this power somewhere else.
+- George and Gruglin follows but stay hidden, not knowing the other is there. George is hiding in the trees and Gruglin is hiding in the forest.
+- Lune casts a spell to roar out a animal screetch to scare off any animals away before trying this power. Then goes to shoot out an arrow at the meteor again. Trying to shoot the bow broke their arm back screetching out in pain.
+- Gruglin comes out from the forest and checks in on Lune and goes to help with their injuries.
+- Gruglin and Lune talk a bit and Gruglin comforts Lune's thought's on the meteor, learns the meteor talks to him. They decide to head back to the cart.
+- George stays hidden and returns to the cart, and looks at the trident again trying to understand it more, but nothing more comes to mind.
+- Everyone heads to bed and travel for two days and make it to Wyras entrance.
