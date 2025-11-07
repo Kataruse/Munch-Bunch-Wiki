@@ -57,3 +57,9 @@
 - George tries to loot the body, only finds the train on the kids body, and notices that the train's wood is colder than usual wood and inspects it.
 - The train allows for you to speak with the dead once per day. George uses it on the kid, but he doesn't speak, he's moved on to a better place now past this part of his life.
 - Gruglin walks up out of the cellar, and in his thoughts he remembers his mother consumed by gibbering beasts, she has long red locks, trying to cover me away from seeing whatever was about to happen.
+- Z went out to the cart to do things of unknown quantities
+- Sybil goes towards the cart to rest there, but sees a faint glow in the cart with grunts of pain in the cart. As she approaches theres a theres a thick red tinge coverd around the cart, blood.
+- Z stands up 8 foot 2 inches tall with skin ripped from themselves and clumps of hair, he's purely metal now. He turns and drops his tools and grabs his mask and tosses it to Sybil to show it's him. He said that he did this because his flesh was old and weak.
+- Sybil casts message to Gruglin to tell him she's in danger, immediately he runs and gets everyone to go and help her.
+- Eventually we arrive at the cart, and see Z's new state.
+- After that we all go to rest for the night, George and Lune sleep in trees, Sybil sleeps in a tent and Gruglin sleeps outside on the ground.
